@@ -19,11 +19,11 @@ BS, Information Management & Technology with a Concentration in Applied Data Ana
 - Cleaned and assured data quality using Safety Learning System (SLS) and Microsoft Access Data Warehouse to achieve a 10% reduction in errors
 - Designed Tableau dashboards that comprised client records to provide insights into patient recovery for fiscal year  
 - Executed database migration using 3 Excel spreadsheets and SLS to increase data consistency in healthcare reporting system 
-- Initiated weekly team-building lunches to foster collaboration and professional development across departments ghgg
+- Initiated weekly team-building lunches to foster collaboration and professional development across departments 
 
 ## Projects
 **SafeZone: Offender Geospatial Analysis Tool**
-Programmed a database using **Python** and FamilyWatchdog's repository of sex offenders nationwide to create a comprehensive demographical analysis & geospatial mapping visualization. It enables users to explore offender demographics & their spatial distribution using geolocation data.
+Programmed a database using **Python** and FamilyWatchdog's repository of sex offenders nationwide to create a comprehensive demographical analysis & geospatial mapping visualization. It enables users to explore offender demographics & their spatial distribution using geolocation data. uhuu
 
 ![Offender Geospatial Tool](/assets/safezone pictorial.png)
 
