@@ -25,6 +25,8 @@ BS, Information Management & Technology with a Concentration in Applied Data Ana
 **SafeZone: Offender Geospatial Analysis Tool**
 Programmed a database using **Python** and FamilyWatchdog's repository of sex offenders nationwide to create a comprehensive demographical analysis & geospatial mapping visualization. It enables users to explore offender demographics & their spatial distribution using geolocation data.
 
+![Offender Geospatial Tool](/assets/safezone pictorial.png)
+
 
 
 
