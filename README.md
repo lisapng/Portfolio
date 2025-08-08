@@ -26,7 +26,7 @@ Programmed a database using **Python** and FamilyWatchdog's repository of sex of
 ![Project Findings](https://drive.google.com/file/d/1RsHd1cuqi8ihXnFZczCB0r9l2JOOwzlS/view)
 Analyze the impact of a public health crisis on client behavior and needs across mental health facilities to develop targeted support strategies and improve service delivery. Using **Tableau** and the Department of Mental Health (DMH)'s Data Warehouse, I segmented clients based on factors to identify and categorize vulnerable groups.   
 
-![Pandemic Exploratory Analysis]
+![Pandemic Exploratory Analysis](assets/behavior analysis pictorial.png)
 
 
 
