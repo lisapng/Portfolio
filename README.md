@@ -18,7 +18,7 @@ BS, Information Management & Technology with a Concentration in Applied Data Ana
 ## Projects
 **SafeZone: Offender Geospatial Analysis Tool**
 
-![Project Findings](https://github.com/lisapng/SafeZone)
+[Project Findings](https://github.com/lisapng/SafeZone)
 
 Programmed a database using **Python** and FamilyWatchdog's repository of sex offenders nationwide to create a comprehensive demographical analysis & geospatial mapping visualization. It enables users to explore offender demographics & their spatial distribution using geolocation data.
 
@@ -26,7 +26,7 @@ Programmed a database using **Python** and FamilyWatchdog's repository of sex of
 
 **Behavioral Impact of Pandemic Crisis on Clients**
 
-![Project Findings](https://drive.google.com/file/d/1RsHd1cuqi8ihXnFZczCB0r9l2JOOwzlS/view)
+[Project Findings](https://drive.google.com/file/d/1RsHd1cuqi8ihXnFZczCB0r9l2JOOwzlS/view)
 
 Analyze the impact of a public health crisis on client behavior and needs across mental health facilities to develop targeted support strategies and improve service delivery. Using **Tableau** and the Department of Mental Health (DMH)'s Data Warehouse, I segmented clients based on factors to identify and categorize vulnerable groups.   
 
