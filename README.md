@@ -1,6 +1,6 @@
-# Aspiring Product Analyst focused on Consumer Behavior, Digital Products & eCommerce Strategy
+# Aspiring Product Analyst looking to explore opportunities in Product Development, Consumer Behavior, & eCommerce Trends
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: SQL, Excel, Tableau, Python, R
 
 ## Education
 BS, Information Management & Technology with a Concentration in Applied Data Analytics | Syracuse University (May 2025)
