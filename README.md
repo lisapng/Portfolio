@@ -36,6 +36,15 @@ Analyze the impact of a public health crisis on client behavior and needs across
 
 ![Pandemic Exploratory Analysis](assets/behavior analysis pictorial.png)
 
+**Market Advisory for Adobe Generative AI Integration**
+
+[Project Findings and Presentation](https://new.express.adobe.com/webpage/HEoYNRcmdJPiK)
+
+
+Collaborated with a student team to form Innowave Consulting, delivering a curated proposal to Adobe representatives on behalf of a fictitious university. Positioned the university as an adopter of Adobe Express and Firefly's generative AI tools, highlighting the competitive advantages for student engagement and market reach. Advised our clients through the strategic, legal, and ethical considerations of AI adoption while aligning the product to their institutional goals. 
+
+![Adobe Market Advisory](assets/adobe.png)
+
 
 
 
