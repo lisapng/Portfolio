@@ -5,7 +5,7 @@
 #### Technical Skills: SQL, Excel, Tableau, Python, R
 
 ## Education
-BS, Information Management & Technology with a Concentration in Applied Data Analytics | Syracuse University (May 2025)
+BS, Applied Data Analytics | Syracuse University (May 2025)
 
 ## Work Experience 
 **Digital Commerce Specialist @ Tà Beautie (February 2024 – February 2025)**
