@@ -1,5 +1,5 @@
 # Aspiring Product Analyst looking to explore opportunities in Product Development, Consumer Behavior, & eCommerce Trends
-[Linkedin](https://www.linkedin.com/in/lisapwin/)
+[Linkedin](https://www.linkedin.com/in/lisapwin/) |
 [Contact](Lisa.ngu71@gmail.com)
 
 #### Technical Skills: SQL, Excel, Tableau, Python, R
@@ -9,15 +9,16 @@ BS, Information Management & Technology with a Concentration in Applied Data Ana
 
 ## Work Experience 
 **Digital Commerce Specialist @ Tà Beautie (February 2024 – February 2025)**
-- Organized the launch of ‘Tà Beautie’, an E-commerce start-up based at Syracuse University by managing product listings on storefronts and performing targeted marketing tactics to promote accessibility of locally sourced African wellness products
-- Coordinated customer orders by monitoring inventory levels, assuring quality control, and handling product packaging to ensure positive customer experiences
-- Managed supplier relations by connecting with local vendors and services to expand commerce operations for products
+- Led the launch of Tà Beautie’s E-commerce storefront, optimizing product listings, descriptions, and visuals to promote accessibility of locally sourced African wellness products
+- Implemented inventory tracking to monitor stock levels, ensure product availability, and maintain quality control through customer shipments
+- Built relations with local vendors and services to expand product assortment and streamline supply coordination 
+
 
 **Data Analyst Intern @ Massachusetts Department of Mental Health, Office of Investigations (June 2023 – September 2023)**      
-- Cleaned and assured data quality using Safety Learning System (SLS) and Microsoft Access Data Warehouse to achieve a 10% reduction in errors
-- Designed Tableau dashboards that comprised client records to provide insights into patient recovery for fiscal year  
-- Executed database migration using 3 Excel spreadsheets and SLS to increase data consistency in healthcare reporting system 
-- Initiated weekly team-building lunches to foster collaboration and professional development across departments 
+- Maintained data quality in Data Warehouse across departments to achieve a 10% reduction in errors and improvement in reliability
+- Developed Tableau dashboards of client records to track client recovery and allocated resources for fiscal year
+- Streamlined routine database migration processes to ensure consistency across health service reporting system 
+- Organized team-building initiatives to foster collaboration and professional development across departments 
 
 ## Projects
 **SafeZone: Offender Geospatial Analysis Tool**
