@@ -1,4 +1,4 @@
-# Aspiring Product Analyst looking to explore opportunities in Product Development, Consumer Behavior, & eCommerce Trends
+# Aspiring Product Analyst looking to explore opportunities in Product Development, Consumer Behavior, & E-commerce Trends
 [Linkedin](https://www.linkedin.com/in/lisapwin/) |
 [Contact](Lisa.ngu71@gmail.com)
 
