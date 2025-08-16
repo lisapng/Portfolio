@@ -7,7 +7,7 @@
 BS, Applied Data Analytics | Syracuse University (May 2025)
 
 ## Work Experience 
-**Digital Commerce Specialist @ Tà Beautie (February 2024 – February 2025)**
+**E-Commerce Operations Associate @ Tà Beautie (February 2024 – February 2025)**
 - Led the launch of Tà Beautie’s E-commerce storefront, optimizing product listings, descriptions, and visuals to promote accessibility of locally sourced African wellness products
 - Implemented inventory tracking to monitor stock levels, ensure product availability, and maintain quality control through customer shipments
 - Built relations with local vendors and services to expand product assortment and streamline supply coordination 
