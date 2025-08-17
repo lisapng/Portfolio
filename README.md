@@ -8,16 +8,15 @@ BS, Applied Data Analytics | Syracuse University (May 2025)
 
 ## Work Experience 
 **E-Commerce Operations Associate @ Tà Beautie (February 2024 – February 2025)**
-- Led the launch of Tà Beautie’s E-commerce storefront, optimizing product listings, descriptions, and visuals to promote accessibility of locally sourced African wellness products
-- Implemented inventory tracking to monitor stock levels, ensure product availability, and maintain quality control through customer shipments
-- Built relations with local vendors and services to expand product assortment and streamline supply coordination 
+- Led the launch of Tà Beautie’s platform on Shopify and social media, driving a 5% boost in product sales by enhancing product listings, visuals, and marketing content
+- Managed inventory tracking and quality control, ensuring consistent product quality by identifying a 15% defect rate of received damaged goods from business partners
+- Promoted brand presence and accessibility by cultivating relationships with local marketplaces and tabling, leading to the sale of 9 products at campus events 
 
 
 **Data Analyst Intern @ Massachusetts Department of Mental Health, Office of Investigations (June 2023 – September 2023)**      
-- Maintained data quality in Data Warehouse across departments to achieve a 10% reduction in errors and improvement in reliability
-- Developed Tableau dashboards of client records to track client recovery and allocated resources for fiscal year
-- Streamlined routine database migration processes to ensure consistency across health service reporting system 
-- Organized team-building initiatives to foster collaboration and professional development across departments 
+- Executed ETL processes for health reporting system through data cleaning and validation in Excel and Access, achieving 16% reduction in case record errors
+- Developed targeted support strategies by presenting statewide facility data analysis using SQL and Tableau, identifying 3 key behavioral trends of public health crisis and 6 vulnerable client segments
+- Streamlined operational reporting across department by developing Tableau dashboard on facility and incident trends to determine service gaps
 
 ## Projects
 **SafeZone: Offender Geospatial Analysis Tool**
