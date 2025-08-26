@@ -6,17 +6,31 @@
 ## Education
 BS, Applied Data Analytics | Syracuse University (May 2025)
 
-## Work Experience 
+## Work Experience
+**Administrative Representative @ Beth Israel Deaconess Medical Center (February 2025 - July 2025)**
+- Reduced data discrepancy by 8% through insurance verification and referral mismatches, executed (80+) high-volume
+daily cold calls and in-person outreach for appointment scheduling
+- Coordinated 100+ weekly urgent inquiries and reduced fulfillment delays to under 24 hours by managing
+communication channels across patients, providers, and service teams
+- Minimized processing delays by 50%: facilitated daily transmissions of confidential documentation, achieving 99%
+same-day delivery compliance to appropriate support teams
+
 **E-Commerce Operations Associate @ Tà Beautie (February 2024 – February 2025)**
-- Led the launch of Tà Beautie’s platform on Shopify and social media, driving a 5% boost in product sales by enhancing product listings, visuals, and marketing content
-- Managed inventory tracking and quality control, ensuring consistent product quality by identifying a 15% defect rate of received damaged goods from business partners
-- Promoted brand presence and accessibility by cultivating relationships with local marketplaces and tabling, leading to the sale of 9 products at campus events 
+- Achieved 25% sell-through of initial product inventory: promoted brand presence by cultivating relationships with 2+
+local marketplaces and tabling at 3 major campus events, pitching products to 30+ students
+- Drove 5% boost in product sales through ad campaigns: led the launch of digital platform on Shopify and social media
+by improving product construct, inventory graphics, and marketing content
+- Identified a 15% defect rate of received damaged goods from business partners by managing inventory tracking and
+quality control, ensuring consistent product quality for customers
 
 
 **Data Analyst Intern @ Massachusetts Department of Mental Health, Office of Investigations (June 2023 – September 2023)**      
-- Executed ETL processes for health reporting system through data cleaning and validation in Excel and Access, achieving 16% reduction in case record errors
-- Developed targeted support strategies by presenting statewide facility data analysis using SQL and Tableau, identifying 3 key behavioral trends of public health crisis and 6 vulnerable client segments
-- Streamlined operational reporting across department by developing Tableau dashboard on facility and incident trends to determine service gaps
+- Achieved 16% reduction in data entry errors by streamlining ETL processes for health reporting system through data
+cleaning and validation in Microsoft Excel and Access
+- Identified 3 key behavioral trends and 6 vulnerable client segments from COVID-19 pandemic crisis using SQL and
+Tableau, developing targeted support strategies to present statewide facility data analysis to stakeholders
+- Decreased 5+ hours of manual reporting weekly by automating incident reporting with Tableau dashboard and
+informing management to identify service gaps
 
 ## Projects
 **SafeZone: Offender Geospatial Analysis Tool**
