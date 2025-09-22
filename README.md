@@ -56,7 +56,7 @@ Collaborated with a student team to form Innowave Consulting, delivering a curat
 
 Forecasted projected HVAC energy usage in the summer months and visualized patterns, further diving into ​​the impact of global warming on increasing the electricity demand. Explored resident HVAC usage in July alongside variables such as building metrics, weather, and electricity sources to forecast the next 10 years.
 
-![eSC Forecasting](NREL_researchers_analyze.jpeg)
+![eSC Forecasting](assets/NREL_researchers_analyze.jpeg)
 
 
 
