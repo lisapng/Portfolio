@@ -64,7 +64,7 @@ Forecasted projected HVAC energy usage in the summer months and visualized patte
 
 Analyzed Bitcoin within 40 day time period, and probed into the reasons for spikes and dips by exploring the factors contributing to the observed upward trend. It aims to provide insights into Bitcoin in the digital era & its rapid responsiveness to the economic market dynamics
 
-![BTC Forecasting]()
+![BTC Forecasting](assets/BTC.png)
 
 
 
