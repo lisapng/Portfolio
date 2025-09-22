@@ -54,8 +54,9 @@ Collaborated with a student team to form Innowave Consulting, delivering a curat
 [Project Findings](https://github.com/lisapng/Predicting-Energy-Usage/tree/main)
 [Data Report](https://docs.google.com/document/d/1gqavBMPEfDqi6rcDye6i8c0N_mkKfbSsmDi6QFpltwI/edit?usp=sharing)
 
-Forecasted projected HVAC energy usage in the summer months and visualized patterns, further diving into ​​the impact of global warming on increasing the electricity demand. Explored resident HVAC usage in the month of July alongside variables such as building metrics, weather, and electricity sources to forecast the next 10 years.
+Forecasted projected HVAC energy usage in the summer months and visualized patterns, further diving into ​​the impact of global warming on increasing the electricity demand. Explored resident HVAC usage in July alongside variables such as building metrics, weather, and electricity sources to forecast the next 10 years.
 
+![eSC Forecasting](NREL_researchers_analyze.jpeg)
 
 
 
