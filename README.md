@@ -58,7 +58,13 @@ Forecasted projected HVAC energy usage in the summer months and visualized patte
 
 ![eSC Forecasting](assets/NREL_researchers_analyze.jpeg)
 
+**Bitcoin Trend Analysis and Forecasting**
 
+[Project Findings](https://colab.research.google.com/drive/1AafsoCgaT1dngGj_Tv5M99mDrebFaVmI?usp=sharing#scrollTo=OKwmJm75gTyF)
+
+Analyzed Bitcoin within 40 day time period, and probed into the reasons for spikes and dips by exploring the factors contributing to the observed upward trend. It aims to provide insights into Bitcoin in the digital era & its rapid responsiveness to the economic market dynamics
+
+![BTC Forecasting]()
 
 
 
