@@ -6,23 +6,6 @@
 ## Education
 BS, Applied Data Analytics | Syracuse University (May 2025)
 
-## Work Experience
-**Insurance Phone Representative @ Beth Israel Deaconess Medical Center (February 2025 - July 2025)**
-- Executed 80+ high-volume daily cold calls and in-person outreach to verify insurance and resolve referral mismatches, reducing data discrepancies by 8% and generating interest in appointment scheduling, akin to prospecting leads in a high-pressure sales environment.
-- Coordinated 100+ weekly urgent inquiries from patients and providers, minimizing fulfillment delays to under 24 hours by proactively managing communication channels across teams, demonstrating strong customer care and relationship-building skills essential for SDR lead nurturing.
-- Facilitated daily transmissions of confidential documentation with 99% same-day delivery compliance, cutting processing delays by 50% and ensuring seamless data hygiene in CRM-like systems, mirroring repetitive task management in sales pipelines.
-
-**E-Commerce Operations Associate @ Tà Beautie (February 2024 – February 2025)**
-- Cultivated relationships with 2+ local marketplaces and pitched products at 3 major campus events to 30+ students, achieving 25% sell-through of initial inventory and generating revenue through direct sales prospecting.
-- Led digital platform launch on Shopify and social media, driving a 3% increase in product sales via targeted ad campaigns, improved inventory graphics, and persuasive marketing content, simulating SDR efforts in building sales pipelines.
-- Identified and resolved a 14% defect rate in received goods through rigorous inventory tracking and quality control, ensuring consistent customer satisfaction and enabling upsell opportunities with repeat buyers.
-
-
-**Data Analyst Intern @ Massachusetts Department of Mental Health, Office of Investigations (June 2023 – September 2023)**      
-- Streamlined data processes by achieving a 16% reduction in data entry errors through optimized ETL workflows in Microsoft Excel and Access, ensuring high-quality data hygiene for 50+ weekly reports.
-- Identified 3 key behavioral trends and 6 vulnerable client segments from the COVID-19 pandemic crisis using SQL and Tableau, developing targeted support strategies to present statewide facility data analysis to stakeholders.
-- Automated incident reporting with Tableau dashboards, decreasing 5+ hours of manual reporting weekly, and enhancing data accessibility across the department.
-
 ## Projects
 **SafeZone: Offender Geospatial Analysis Tool**
 
